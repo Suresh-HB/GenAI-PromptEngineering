@@ -1,0 +1,15 @@
+Product: Laptop
+Review: This laptop has excellent performance but could improve on battery life.
+---END OF REVIEW---
+Product: Wireless Earbuds
+Review: The sound quality is clear, and the noise cancellation works great. Very satisfied!
+---END OF REVIEW---
+Product: Smartphone
+Review: The camera quality is disappointing, and the battery drains quickly.
+---END OF REVIEW---
+Product: Smartwatch
+Review: I love the sleek design and the range of fitness features available.
+---END OF REVIEW---
+Product: Headphones
+Review: These headphones are comfortable, but the sound quality is subpar.
+---END OF REVIEW---
